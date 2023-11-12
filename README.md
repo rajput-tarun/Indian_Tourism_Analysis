@@ -52,8 +52,11 @@ The project utilizes data from [https://data.gov.in/], providing a reliable foun
 
 ## Requirements
 
-- Python 3.x
-- [Insert any additional dependencies]
+- Python 3.7 and Above
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
 
 ## Contributions
 
