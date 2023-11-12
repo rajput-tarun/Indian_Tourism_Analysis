@@ -2,9 +2,6 @@
 This project is a comprehensive analysis of tourism-related statistics, focusing on various aspects such as Foreign Tourist Arrivals (FTAs), distribution of ITA (International Tourist Arrivals), foreign exchange earnings from tourism, and more.
 
 
-
-# Tourism Analysis Project
-
 ## Overview
 
 This project is a comprehensive analysis of tourism-related statistics, focusing on various aspects such as Foreign Tourist Arrivals (FTAs), distribution of ITA (International Tourist Arrivals), foreign exchange earnings from tourism, and more. The analysis covers a span of several years, providing insights into the trends and patterns in the tourism sector.
@@ -42,9 +39,20 @@ This project is a comprehensive analysis of tourism-related statistics, focusing
 
 ## How to Use
 
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Run the analysis script, providing the necessary input.
+Certainly, let me rephrase the instructions without code:
+
+Step1. **Clone the Repository:**
+   - Clone the repository to your local machine using the provided URL.
+
+Step2. **Navigate to the Project Directory:**
+   - Change your current working directory to 'Indian_Tourism_Analysis'.
+
+Step3. **Run the Project Script:**
+   - Execute the 'project.py' script and input the required information.
+
+ **Modify Functions in module.py:**
+   - If any changes to functions are necessary, make them in the 'module.py' script. Save the file, and the updates will be reflected in the main project when 'project.py' 
+     is run again.
 
 ## Data Source
 
