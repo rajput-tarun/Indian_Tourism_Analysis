@@ -63,5 +63,3 @@ The project utilizes data from [https://data.gov.in/], providing a reliable foun
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 
 ---
-
-Feel free to customize this template according to the specifics of your project. Add any necessary details, such as the data source, specific technologies used, or additional features.
