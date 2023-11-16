@@ -1,5 +1,5 @@
 # Indian_Tourism_Analysis
-This project is a comprehensive analysis of tourism-related statistics, focusing on various aspects such as Foreign Tourist Arrivals (FTAs), distribution of ITA (International Tourist Arrivals), foreign exchange earnings from tourism, and more.
+This project is a comprehensive analysis of tourism-related statistics, focusing on various aspects such as Foreign Tourist Arrivals (FTAs), distribution of ITA (International Tourist Arrivals), foreign exchange earnings from tourism, and more. 
 
 
 ## Overview
@@ -57,6 +57,8 @@ Step3. **Run the Project Script:**
 ## Data Source
 
 The project utilizes data from [https://data.gov.in/], providing a reliable foundation for the tourism statistics analysis.
+I collected information from data.gov.in, which was released in 2020. However, I have supplemented this data with additional information from 2022 to provide the latest updates.
+
 
 ## Requirements
 
