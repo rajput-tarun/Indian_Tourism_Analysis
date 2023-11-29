@@ -39,8 +39,6 @@ This project is a comprehensive analysis of tourism-related statistics, focusing
 
 ## How to Use
 
-Certainly, let me rephrase the instructions without code:
-
 Step1. **Clone the Repository:**
    - Clone the repository to your local machine using the provided URL.
 
